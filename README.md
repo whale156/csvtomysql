@@ -15,6 +15,5 @@ CREATE TABLE `test_table` (
     `date` date NOT NULL,
     `num` double precision NOT NULL,
     `volume` integer NOT NULL
-)
-;
+);
 
